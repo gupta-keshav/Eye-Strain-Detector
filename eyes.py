@@ -53,8 +53,8 @@ while True:
                 late_blink_counter -= 1
                 if(late_blink_counter < 0):
                     late_blink_counter = 0
-            print(tock - tick)
-            print(late_blink_counter)
+#             print(tock - tick)
+#             print(late_blink_counter)
             if(late_blink_counter > 4):
                 print("please bink eyes")
             tick = tock
