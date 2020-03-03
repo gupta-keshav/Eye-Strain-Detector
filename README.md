@@ -17,4 +17,4 @@ It is common to feel eye strain while working with computers/laptops. The main c
  
  # Running This Code
  
- Download or clone this repository on your local device and run the following command in the terminal while being in the Eye-blink-detection folder -  `python detect_blinks.py`. If there's any package/module missing, you can easily install them using the `pip` command.
+ Download or clone this repository on your local device and run the following command in the terminal while being in the Eye-blink-detection folder -  `python eyes.py`. If there's any package/module missing, you can easily install them using the `pip` command.
